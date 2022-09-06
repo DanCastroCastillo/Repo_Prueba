@@ -1,2 +1,4 @@
-git init
-git add .
+1. git version
+
+2. git init
+
